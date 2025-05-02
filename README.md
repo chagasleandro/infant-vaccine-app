@@ -3,6 +3,7 @@
 An infant vaccination app built with **React Native**, designed to help parents keep track of their child's vaccine schedule, doctor appointments, and health reminders.
 
 ![App Screenshot](./screenshot.png)
+https://github.com/chagasleandro/infant-vaccine-app/issues/1
 
 ## 📱 Features
 
